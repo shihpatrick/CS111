@@ -1,0 +1,18 @@
+NAME: Patrick Shih
+EMAIL: patrickkshih@gmail.com
+ID: 604580648
+
+**Please use one of my five late passes.**
+
+lab1a.c: Contains all the code used for the lab. I borrowed from the following sources to develop my code. 
+
+POLLING: http://beej.us/guide/bgnet/output/html/multipage/pollman.html
+ Used this website to understanding polling and the functionalities behind it. I used the code example as a framework for my code. 
+
+CHARACTER AT A TIME, FULL DUPLEX TERMINAL I/O: https://www.gnu.org/software/libc/manual/html_node/Noncanon-Example.html
+ Used the example to develop noncanon terminal with no echo. Code was borrowed from above source.
+
+Makefile: make, clean, dist
+  make - compiles and builds executable
+  clean - cleans executable
+  dist - packages lab1a.c, Makefile, README into tar file
