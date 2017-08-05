@@ -1,0 +1,29 @@
+NAME: Patrick Shih
+EMAIL: patrickkshih@gmail.com
+ID: 604580648
+
+***I would like to use a slip day.***
+
+Same code was sampled in 1A (see README in that lab).
+
+Setting up client, sampled code from:
+https://www.tutorialspoint.com/unix_sockets/socket_client_example.htm
+
+Setting up server, sampled code from:
+https://www.tutorialspoint.com/unix_sockets/socket_server_example.htm
+
+Setting up encryption, sampled code from:
+https://linux.die.net/man/3/mcrypt
+
+lab1b-client.c
+	handles code in regards to the client end (interacts with stdin/stdout)
+
+lab1b-server.c
+	connection between client and shell
+
+my.key 
+	wrote my own key 
+
+Makefile
+	compiles files
+
