@@ -1,0 +1,14 @@
+NAME: Patrick Shih
+EMAIL: patrickkshih@gmail.com
+ID: 604580648
+
+lab4b: code used to interact with the edison board.
+
+Makefile: make, clean, dist, check
+
+check.sh: smoke screen tests for the makefile
+
+README: information regarding files
+
+
+
