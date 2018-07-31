@@ -1,8 +1,4 @@
 NAME: Patrick Shih
-EMAIL: patrickkshih@gmail.com
-ID: 604580648
-
-I would like to use two of my slip days. I emailed the TA regarding having the stomach flu, so I was unable to work on the project for a day. I understand that while I most likely will have to use the slip days, I would be very gracious if this lab could be extended, as I did not even feel well enough to code during the days I was sick.
 
 SortedList.c: I discussed with a peer in the class about the best way to implement the list, and we thought that a circular, doubly linked list would be best. This is due to the fact that the head is NULL, so there would be more implementation needed if we added an “end” to the list as also NULL. It also makes use of the resources we have to put the head as the “end.”
 
